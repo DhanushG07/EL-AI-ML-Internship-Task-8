@@ -23,6 +23,6 @@ Optimal Clusters: 5
 Silhouette Score: *0.55* (example)
 
 ## Author:
-**NAME**: Dhanush Guduru
+**NAME**: Dhanush Guduru  
 **GMAIL**: dhanushg0710@gmail.com   
 
